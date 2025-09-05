@@ -11,7 +11,7 @@ O trabalho consiste em criar e manipular estruturas de **Fila** **Pilha** dinâm
 - **Merge de Listas e Vetores**: Arquivos `MergeListaMain.java` e `MergeVetorMain.java` demonstram a fusão de listas e vetores utilizando as estruturas implementadas.
 
 ## Como Executar
-- 1.Fila
+ 1.Fila
 - Ao rodar o arquivo `Fila.java`, você irá se deparar com um menu:
 ```
 Inserir numero (1)
@@ -26,7 +26,7 @@ Digite uma opcao:
 - A quarta (0) opção encerra o código.
 
 
-- 2.Pilha
+ 2.Pilha
 - Ao rodar o arquivo `Pilha.java`, você irá se deparar com um menu:
 ```
 Inserir numero (1)
@@ -40,7 +40,7 @@ Digite uma opcao:
 - A terceira (3) opção ira apenas te msotrar a pilha e te mostrará o menu novamente para selecionar a mesma ou outra opção.
 - A quarta (0) opção encerra o código.
 
-- 3.Merge Lista
+  3.Merge Lista
 - Ao rodar o arquivo `Lista`, você irá se deparar com o menu: 
 ```
 Inserir em Fila A (1)
@@ -60,7 +60,7 @@ Digite uma opcao:
 - A sexta (6) opção irá mostrar as 2 filas juntas em ordem crescente.
 - A setima (0) opção irá encerrar o código
 
-- 4.Merge Vetor
+ 4.Merge Vetor
 - Ao rodar o arquivo `Vetor`, você irá se deparar com o menu: 
 ```
 Inserir em Fila A (1)
